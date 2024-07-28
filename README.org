@@ -1,0 +1,9 @@
+* clog-moldable-inspector
+
+A moldable Common Lisp object inspector based on CLOG
+
+|---------+--------------------------------------------------------------|
+| source  | git:https://codeberg.org/khinsen/clog-moldable-inspector.git |
+| commit  | 9b42df3
+| systems | clog-moldable-inspector                                      |
+|---------+--------------------------------------------------------------|
