@@ -4,6 +4,6 @@ A moldable Common Lisp object inspector based on CLOG
 
 |---------+--------------------------------------------------------------|
 | source  | git:https://codeberg.org/khinsen/clog-moldable-inspector.git |
-| commit  | 7e059f3
+| commit  | 3459708
 | systems | clog-moldable-inspector                                      |
 |---------+--------------------------------------------------------------|
