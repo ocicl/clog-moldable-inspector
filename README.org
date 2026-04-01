@@ -7,3 +7,4 @@ A moldable Common Lisp object inspector based on CLOG
 | commit  | b369f0a
 | systems | clog-moldable-inspector                                      |
 |---------+--------------------------------------------------------------|
+ 
